@@ -1,32 +1,19 @@
-Términos y Condiciones de Uso - Cuentos y Fábulas
-Última actualización: 17 de abril de 2026
+# Política de Privacidad - Cuentos y Fábulas para Niños
 
-1. Aceptación de los Términos
-Al descargar, instalar o utilizar la aplicación Cuentos y Fábulas (en adelante, "la Aplicación"), usted acepta cumplir y estar sujeto a los presentes Términos y Condiciones. Si no está de acuerdo con estos términos, no debe utilizar la Aplicación. Dado que la Aplicación está dirigida a menores, el uso debe ser supervisado por un padre, tutor o representante legal, quien acepta la responsabilidad de los actos del menor.
+**Última actualización:** 17 de abril de 2026
 
-2. Propiedad Intelectual
-Todo el contenido incluido en la Aplicación, tales como textos, gráficos, logotipos, iconos de botones, imágenes, clips de audio, descargas digitales y compilaciones de datos, es propiedad de RenoCode o de sus proveedores de contenido y está protegido por las leyes de propiedad intelectual internacionales. Se prohíbe estrictamente la ingeniería inversa, descompilación o intento de extraer el código fuente de la Aplicación.
+En **RenoCode**, la privacidad de nuestros pequeños usuarios es nuestra prioridad absoluta. Esta aplicación ha sido diseñada para ser un entorno seguro y educativo.
 
-3. Licencia de Uso Limitado
-Se concede al usuario una licencia limitada, no exclusiva, no transferible y revocable para descargar y utilizar la Aplicación exclusivamente para uso personal y no comercial en dispositivos compatibles de su propiedad.
+## 1. Recopilación de Información
+No recopilamos, solicitamos ni compartimos ninguna información de identificación personal (como nombre, dirección, correo o número de teléfono) de los usuarios de esta aplicación.
 
-4. Compras y Acceso Premium
-Pago Único: La Aplicación ofrece una opción de compra única ("Premium") que desbloquea la totalidad del contenido y elimina la publicidad de terceros.
+## 2. Publicidad (Google AdMob)
+Utilizamos Google AdMob para mostrar anuncios. 
+- Hemos configurado los anuncios bajo la etiqueta **"Child-directed"** (Dirigido a niños) para cumplir estrictamente con la ley **COPPA**.
+- No se muestra publicidad personalizada ni se realiza seguimiento de datos de menores.
 
-Restauración de Compras: El usuario tiene derecho a restaurar su compra en cualquier dispositivo vinculado a la misma cuenta de Google Play Store.
+## 3. Compras en la Aplicación
+La aplicación ofrece una compra única para desbloquear todo el contenido de por vida. Estas transacciones se gestionan de forma segura a través de la plataforma oficial de Google Play Store.
 
-Transacciones: Todos los pagos son procesados por Google Play. RenoCode no almacena ni tiene acceso a la información de sus métodos de pago.
-
-Reembolsos: Las solicitudes de reembolso se rigen estrictamente por las políticas de Google Play Store.
-
-5. Publicidad de Terceros
-La versión gratuita de la Aplicación utiliza Google AdMob para mostrar anuncios. Estos anuncios han sido configurados para cumplir con la normativa COPPA (protección de la privacidad infantil online), filtrando contenido no apto para menores y desactivando el rastreo publicitario personalizado.
-
-6. Modificaciones de la Aplicación
-RenoCode se reserva el derecho de actualizar, modificar o interrumpir cualquier parte de la Aplicación o su contenido en cualquier momento sin previo aviso para mejorar la experiencia del usuario o por requisitos técnicos.
-
-7. Limitación de Responsabilidad
-La Aplicación se proporciona "tal cual". RenoCode no garantiza que la aplicación esté libre de errores o interrupciones. En la medida máxima permitida por la ley, no seremos responsables de ningún daño derivado del uso o la imposibilidad de uso de la Aplicación.
-
-8. Contacto
-Para cualquier duda o consulta sobre estos términos, puede contactarnos en: renatomoc5@gmail.com
+## 4. Contacto
+Si tiene alguna duda sobre esta política, puede contactarnos en: renatomoc5@gmail.com
