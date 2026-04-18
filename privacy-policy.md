@@ -15,5 +15,7 @@ Utilizamos Google AdMob para mostrar anuncios.
 ## 3. Compras en la Aplicación
 La aplicación ofrece una compra única para desbloquear todo el contenido de por vida. Estas transacciones se gestionan de forma segura a través de la plataforma oficial de Google Play Store.
 
-## 4. Contacto
+## 4. "Si desea que eliminemos cualquier registro técnico, contacte a renatomoc5@gmail.com o simplemente desinstale la aplicación para borrar los datos locales."
+
+## 5. Contacto
 Si tiene alguna duda sobre esta política, puede contactarnos en: renatomoc5@gmail.com
